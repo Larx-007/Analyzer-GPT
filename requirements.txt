@@ -1,9 +1,7 @@
+asyncio
+python-dotenv
 autogen-agentchat
 autogen-core
 autogen-ext
-asyncio
-python-dotenv
-openai
-tiktoken
 autogen-ext[docker]
 streamlit

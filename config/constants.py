@@ -1,0 +1,4 @@
+DOCKER_IMAGE='amancevice/pandas'
+DOCKER_TIMEOUT=120
+DOCKER_WORK_DIR='temp'
+MODEL_OPENAI = 'gpt-4o'
