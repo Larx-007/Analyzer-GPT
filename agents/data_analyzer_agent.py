@@ -39,7 +39,7 @@ Stick to these and ensure a smooth collaboration with Code_executor_agent.
 
 def get_data_analyzer_agent(model_client):
     data_analyzer = AssistantAgent(
-        name='Data_Analyzer',
+        name='Data_Analyzer_Agent',
         model_client=model_client,
         description='An agent that solves the data analysis problem and gives the code as well',
         system_message=SYSTEM_MESSAGE
